@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DevApp.adminCustomerSelection" Collapsed="true">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABACAAACAAAAKQAAACAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>adminCustomerSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.BaseUI" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAUAACAAEBAEAACAAAACAAgAAAAAAACAAAAAAAI=</HashCode>
+      <FileName>BaseUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.globalData" Collapsed="true">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAQAAAAAAAAAAAIAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.customerMainUI" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAASAAAAAAAAGAAAACAAAAAAAAAAAAAABAAAA=</HashCode>
+      <FileName>customerMainUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.dailyMenuUI" Collapsed="true">
+    <Position X="3.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAAAAAACABAACAAAgAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>dailyMenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.dinnerUI" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAgAACAAAACAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>dinnerUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.lunchUI" Collapsed="true">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAACAAAAAAAACAAAACAAAAAAAAAAAQAABAAAA=</HashCode>
+      <FileName>lunchUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.Table" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAQAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.Timetable" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.Program" Collapsed="true">
+    <Position X="18.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.tableSelection" Collapsed="true">
+    <Position X="10" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAACAAAAAAAACAQAACAEA4AAAAAFAAAABAAAA=</HashCode>
+      <FileName>tableSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.timetableUI" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAIACAAAACAMQ7AAAAAEAAAAAAAAA=</HashCode>
+      <FileName>timetableUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.Properties.Resources" Collapsed="true">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DevApp.Properties.Settings" Collapsed="true">
+    <Position X="18.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
