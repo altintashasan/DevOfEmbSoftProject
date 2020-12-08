@@ -34,6 +34,10 @@ namespace DevApp
             pictureBox4.Image = bitmap1;
             pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;//filling the image box
 
+            setTableAvailability(tableOne, 1);
+            setTableAvailability(tableTwo, 2);
+            setTableAvailability(tableThree, 3);
+            setTableAvailability(tableFour, 4);
         }
 
 
@@ -98,6 +102,36 @@ namespace DevApp
         private void pictureBox5_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private int checkTableStatus(int tableID)
+        {
+            bool check;
+            int reservedTable = 0;
+            for (int i = 0; i < 8; i++)
+            {
+                check = globalData.getTimetableCheck(tableID, i);
+                if(check == false) {
+                    reservedTable++;
+                }
+            }
+
+            return reservedTable;
+        }
+        private void setTableAvailability(Button x, int tableID)
+        {
+            int reservedTable = checkTableStatus(tableID);
+            if(reservedTable == 8)
+            {
+                x.BackColor = Color.Red;
+                x.Enabled = false;
+
+            }
+            else
+            {
+                x.BackColor = Color.LightGreen;
+                x.Enabled = true;
+            }
         }
     }
 }

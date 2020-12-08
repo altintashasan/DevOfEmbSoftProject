@@ -17,7 +17,7 @@ namespace DevApp
             InitializeComponent();
         }
 
-        private void lunchUI_Load(object sender, EventArgs e)
+        public virtual void lunchUI_Load(object sender, EventArgs e)
         {
             richTextBox1.Text = DevApp.Properties.Resources.lunch1;
 

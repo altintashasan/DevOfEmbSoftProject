@@ -52,6 +52,18 @@
     <Compile Include="adminCustomerSelection.Designer.cs">
       <DependentUpon>adminCustomerSelection.cs</DependentUpon>
     </Compile>
+    <Compile Include="adminDailyMenuUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminDailyMenuUI.Designer.cs">
+      <DependentUpon>adminDailyMenuUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="adminFirstUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adminFirstUI.Designer.cs">
+      <DependentUpon>adminFirstUI.cs</DependentUpon>
+    </Compile>
     <Compile Include="adminMainUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -107,6 +119,12 @@
     <Compile Include="editReservationInfos.Designer.cs">
       <DependentUpon>editReservationInfos.cs</DependentUpon>
     </Compile>
+    <Compile Include="lunchEditUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="lunchEditUI.Designer.cs">
+      <DependentUpon>lunchEditUI.cs</DependentUpon>
+    </Compile>
     <Compile Include="lunchUI.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -142,6 +160,12 @@
     <EmbeddedResource Include="adminCustomerSelection.resx">
       <DependentUpon>adminCustomerSelection.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="adminDailyMenuUI.resx">
+      <DependentUpon>adminDailyMenuUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="adminFirstUI.resx">
+      <DependentUpon>adminFirstUI.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="adminMainUI.resx">
       <DependentUpon>adminMainUI.cs</DependentUpon>
     </EmbeddedResource>
@@ -168,6 +192,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="editReservationInfos.resx">
       <DependentUpon>editReservationInfos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="lunchEditUI.resx">
+      <DependentUpon>lunchEditUI.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="lunchUI.resx">
       <DependentUpon>lunchUI.cs</DependentUpon>

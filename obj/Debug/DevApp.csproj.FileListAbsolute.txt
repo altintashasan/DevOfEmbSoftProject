@@ -21,3 +21,6 @@ D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-
 D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.adminMainUI.resources
 D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.passwordEnterUI.resources
 D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.deleteDecision.resources
+D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.adminDailyMenuUI.resources
+D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.lunchEditUI.resources
+D:\lectures\MSc\2.Year\Development Software for Embedded Systems\Project\Source-Master\DevApp\obj\Debug\DevApp.adminFirstUI.resources

@@ -54,7 +54,7 @@ namespace DevApp
         }
         public override void back_Click(object sender, EventArgs e)
         {
-            adminCustomerSelection Check = new adminCustomerSelection();
+            adminFirstUI Check = new adminFirstUI();
             Check.Show();
             this.Hide();
 
@@ -86,5 +86,6 @@ namespace DevApp
                 pictureBox4.Image = bitmap1;
                 pictureBox4.SizeMode = PictureBoxSizeMode.Zoom;//filling the image box
         }
+
     }
 }

@@ -19,7 +19,7 @@ namespace DevApp
 
         private void button1_Click(object sender, EventArgs e)
         {
-            adminMainUI Check1 = new adminMainUI();
+            adminFirstUI Check1 = new adminFirstUI();
             if(textBox1.Text == "12345")
             {
                 Check1.Show();

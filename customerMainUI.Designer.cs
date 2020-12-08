@@ -71,6 +71,7 @@
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "customerMainUI";
             this.Text = "customerMainUI";
+            this.Load += new System.EventHandler(this.customerMainUI_Load);
             this.Controls.SetChildIndex(this.showDailyMenu, 0);
             this.Controls.SetChildIndex(this.makeReservation, 0);
             this.ResumeLayout(false);

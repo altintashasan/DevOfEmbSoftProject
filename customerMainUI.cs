@@ -39,5 +39,10 @@ namespace DevApp
             this.Hide();
 
         }
+
+        private void customerMainUI_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
